@@ -6,6 +6,5 @@ export default() => {
         <h1>Hello From Container </h1>
         <hr/>
         <MarketingApp/>
-        
     </div>
 }
